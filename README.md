@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Rm3cJx7OmvFWld8bM0/giphy-downsized.gif"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://vladimirk33.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/vldmr-katenin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vladimirk33&style=flat-square&color=blue" alt=""/>
-</div>
-
 <!--### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -49,10 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 -->
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladimirk33&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirk33&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
 <!--
 **vladimirk33/vladimirk33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
